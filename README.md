@@ -8,7 +8,7 @@
 [产品官网](https://zunchuang.tech/cxy-agentic/index.html)
 
 [![Python Version](https://img.shields.io/badge/python-3.10+-blue.svg)](https://python.org)
-[![Framework](https://img.shields.io/badge/framework-CxyAgentic-orange.svg)](https://github.com/your-repo/cxyagentic)
+[![Framework](https://img.shields.io/badge/framework-CxyAgentic-orange.svg)](https://github.com/enryteam/cxy-agentic)
 
 将工具、模型、智能体统一为可插拔的原子算子——Cxy。像搭乐高一样构建灵活的多智能体系统，极致可扩展，每一步决策全链路可追溯。
 
